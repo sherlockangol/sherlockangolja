@@ -137,6 +137,7 @@ div.box {
     margin-left: 33%;
     margin-right: 33%;
 	padding: 15px;
+	float: none;
    
 	
 }
